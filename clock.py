@@ -11,7 +11,6 @@ Work in progress
 """
 
 __author__ = 'Razvan U.'
-__copyright__ = 'Copyright (c) Razvan U.'
 __Version__ = '0.0.1'
 
 
